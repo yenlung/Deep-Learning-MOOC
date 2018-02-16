@@ -5,3 +5,7 @@
 ## 檔案說明
 
 每個單元的第一個 Jupyter Notebook, 例如編號 01-1, 是上課主要內容。其他像 01-2, 01-3 等是補充或作業內容。
+
+## 參考資料
+
+我們主要參考 [Keras 的範例](https://github.com/keras-team/keras/tree/master/examples), 裡面有許多非常值得試試的例子。 
