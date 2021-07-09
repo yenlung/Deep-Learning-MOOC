@@ -1,6 +1,8 @@
 # 深度學習 MOOC 檔案
 
-這裡是我在[政大 MOOC](http://moocs.nccu.edu.tw) 上開設人工智慧與深度學習課程的教學檔案。介紹基本神經網路, 包括標準神經網路、CNN、RNN 等等。使用 Python 中的 Keras 套件。我們並且計畫介紹 Keras 中 Functional API 的使用方式, 以期可以自由打造想任何想要的神經網路。
+這裡是我在[政大 MOOC](https://ctld.video.nccu.edu.tw/km/1172) 上開設人工智慧與深度學習課程的教學檔案。以上的連結是大家可自學參考的影片連結。課程介紹基本神經網路, 包括標準神經網路、CNN、RNN 等等。使用 Python 中的 Keras 套件。我們並且計畫介紹 Keras 中 Functional API 的使用方式, 以期可以自由打造想任何想要的神經網路。
+
+裡面用到的 Keras 是較舊的用法, 雖然我們影片沒有打算重錄, 但這裡的檔案已都改為 TensorFlow (tf.Keras) 2.x 版的用法。
 
 ## 檔案說明
 
